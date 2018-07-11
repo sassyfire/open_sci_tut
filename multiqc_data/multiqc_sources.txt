@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1300313_1	/home/dibbears/openScienceTutorial/SRR1300313_1_fastqc.zip
+FastQC	all_sections	SRR1300313_2	/home/dibbears/openScienceTutorial/SRR1300313_2_fastqc.zip
+FastQC	all_sections	SRR1300380_1	/home/dibbears/openScienceTutorial/SRR1300380_1_fastqc.zip
+FastQC	all_sections	SRR1300380_2	/home/dibbears/openScienceTutorial/SRR1300380_2_fastqc.zip
+FastQC	all_sections	SRR1300523_1	/home/dibbears/openScienceTutorial/SRR1300523_1_fastqc.zip
+FastQC	all_sections	SRR1300523_2	/home/dibbears/openScienceTutorial/SRR1300523_2_fastqc.zip
+FastQC	all_sections	SRR1300540_1	/home/dibbears/openScienceTutorial/SRR1300540_1_fastqc.zip
+FastQC	all_sections	SRR1300540_2	/home/dibbears/openScienceTutorial/SRR1300540_2_fastqc.zip

@@ -1,0 +1,2 @@
+Sample	lineage_dataset	complete	complete_single_copy	complete_duplicated	fragmented	missing	total
+trinity.nema	metazoa_odb9	3.0	3.0	0.0	0.0	975.0	978.0

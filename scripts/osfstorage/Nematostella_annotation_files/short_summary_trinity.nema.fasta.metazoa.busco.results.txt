@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: metazoa_odb9 (Creation date: 2016-02-13, number of species: 65, number of BUSCOs: 978)
+# To reproduce this run: python /home/dibbears/miniconda3/envs/py3.dammit/bin/run_BUSCO.py -i /home/dibbears/annotation/trinity.nema.fasta.dammit/trinity.nema.fasta -o trinity.nema.fasta.metazoa.busco.results -l /home/dibbears/.dammit/databases/busco2db/metazoa_odb9/ -m transcriptome -c 4
+#
+# Summarized benchmarking in BUSCO notation for file /home/dibbears/annotation/trinity.nema.fasta.dammit/trinity.nema.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:0.3%[S:0.3%,D:0.0%],F:0.0%,M:99.7%,n:978
+
+	3	Complete BUSCOs (C)
+	3	Complete and single-copy BUSCOs (S)
+	0	Complete and duplicated BUSCOs (D)
+	0	Fragmented BUSCOs (F)
+	975	Missing BUSCOs (M)
+	978	Total BUSCO groups searched
